@@ -8,7 +8,7 @@ We incorporated the art works of our professors and added our touch of what we t
 ## Professor InDelicato trying the VR experience for the first time!
 
 <a href="https://drive.google.com/drive/u/0/folders/1yimrkWEHMnvTd1fINbN3jSYopuJ0aSoA" target="_blank">
-  <img src="https://github.com/tprashant-21/VAPA-Gallery-VR/assets/62254242/f335a8c1-3f26-486a-98f4-3ff8a13c9a3b" alt="BasketBrawl Poster" width="350" height="400" border="10" />
+  <img width="404" alt="ProftryingVR" src="https://github.com/tprashant-21/VAPA-Gallery-VR/assets/62254242/9e9322e3-932b-4e40-86e7-156fd76a675a" width="350" height="400" border="10">
 </a>
 
 
