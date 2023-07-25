@@ -7,7 +7,7 @@ We incorporated the art works of our professors and added our touch of what we t
 
 ## Professor InDelicato trying the VR experience for the first time!
 
-<a href="https://drive.google.com/drive/u/0/folders/1yimrkWEHMnvTd1fINbN3jSYopuJ0aSoA" target="_blank">
+<a href="https://drive.google.com/file/d/1JAYQcb8fsjGLj4xyhM7a1X_rG659fUp1/view?usp=drive_link" target="_blank">
   <img width="404" alt="ProftryingVR" src="https://github.com/tprashant-21/VAPA-Gallery-VR/assets/62254242/9e9322e3-932b-4e40-86e7-156fd76a675a" />
 </a>
 
