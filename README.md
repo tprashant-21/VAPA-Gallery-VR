@@ -5,7 +5,7 @@ Me and a talented friend of mine, Andreas Varnauskas (Multimedia Design major), 
 
 We incorporated the art works of our professors and added our touch of what we think the Gallery should look like.
 
-## Professor InDelicato trying the VR experience for the first time!
+## <a href="https://drive.google.com/file/d/1JAYQcb8fsjGLj4xyhM7a1X_rG659fUp1/view?usp=drive_link" target="_blank"> Professor InDelicato trying the VR experience for the first time! Click here! </a>
 
 <a href="https://drive.google.com/file/d/1JAYQcb8fsjGLj4xyhM7a1X_rG659fUp1/view?usp=drive_link" target="_blank">
   <img width="404" alt="ProftryingVR" src="https://github.com/tprashant-21/VAPA-Gallery-VR/assets/62254242/9e9322e3-932b-4e40-86e7-156fd76a675a" />
